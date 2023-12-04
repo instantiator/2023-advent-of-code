@@ -1,0 +1,15 @@
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/bin/Debug/net7.0/AdventSolutions
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/bin/Debug/net7.0/AdventSolutions.deps.json
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/bin/Debug/net7.0/AdventSolutions.runtimeconfig.json
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/bin/Debug/net7.0/AdventSolutions.dll
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/bin/Debug/net7.0/AdventSolutions.pdb
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.csproj.AssemblyReference.cache
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.AssemblyInfoInputs.cache
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.AssemblyInfo.cs
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.csproj.CoreCompileInputs.cache
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.dll
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/refint/AdventSolutions.dll
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.pdb
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/AdventSolutions.genruntimeconfig.cache
+/Users/lewiswestbury/src/personal/2023-advent-of-code/AdventSolutions/obj/Debug/net7.0/ref/AdventSolutions.dll
