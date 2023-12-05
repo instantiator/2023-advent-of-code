@@ -21,6 +21,7 @@ public class Solver
         {
             1 => new Day01(inputPath).Solve(part),
             2 => new Day02(inputPath).Solve(part),
+            3 => new Day03(inputPath).Solve(part),
             _ => throw new NotImplementedException($"Day {day} not implemented.")
         };
     }
